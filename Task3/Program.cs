@@ -21,5 +21,5 @@ void PrintArray (int [,,] array)
 }
 int [,,] array = new int [2,2,2];
 FillArray (array, 10,99);
-Console.WriteLine("Your 3D array: ");3  
+Console.WriteLine("Your 3D array: ");
 PrintArray (array);
